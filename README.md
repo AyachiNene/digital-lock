@@ -1,2 +1,6 @@
-# digital-lock
-digital circuit &amp; logic homework，using development board xc7a35tcsg324-3
+# 电子密码锁 
+数电大作业
+
+开发板：xc7a35tcsg324-3
+
+使用说明：懒得写，自己猜
